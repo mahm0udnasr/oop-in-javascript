@@ -30,8 +30,7 @@
 
 لو فيه أي سؤال أو اقتراح:
 
-- افتح Issue على الريبو
-- أو ابعتلي على [Telegram](https://t.me/mahm0udnasr)
+- افتح Issue على الريبو أو ابعتلي على [Telegram](https://t.me/mahm0udnasr)
 
 ---
 
