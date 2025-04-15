@@ -22,32 +22,6 @@ const person = {
 person.getInfo();
 ```
 
----
-
-##  2. Factory Functions
-
-```js
-// Factory Function
-function createPerson(name) {
-	return {
-		name,
-		sayHello: function() {
-			console.log(`Hello I'm ${this.name}`);
-		}
-	}
-}
-
-const personOne = createPerson("Mahmoud");
-const personTwo = createPerson("Ahmed");
-const personThree = createPerson("Ali");
-
-personOne.sayHello();
-personTwo.sayHello();
-personThree.sayHello();
-```
-
----
-
 ##  3. Constructor Functions
 
 ```js
@@ -65,9 +39,3 @@ const personOne = new Person("Mahmoud", "Male", 2005);
 console.table(personOne); // Mahmoud | Male | 2005
 console.log(personOne.calcAge()); // 20
 ```
-
----
-
-> 🔍 **ملحوظة مهمة:** في جافاسكريبت، الـ `Function` نفسها تعتبر نوع من أنواع الـ `Object`. لو حابب تتعمق في الموضوع ده، ممكن تدور عليه أو تتابع كورس متخصص في الـ JavaScript internals.
-
----
