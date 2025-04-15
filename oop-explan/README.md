@@ -1,38 +1,36 @@
 ## 📚 فهرس الدروس
 
 ###  تمهيد وفهم الأساسيات
-1. [مقدمة عن OOP](01-intro.md)  
-2. [الـ Objects في JavaScript](02-objects.md)  
+1. [intro in OOP](01-intro.md)  
+2. [Objects in JavaScript](02-objects.md)  
 3. [Factory Functions](03-factory-functions.md)  
 4. [Constructor Functions](04-constructors.md)  
 5. [Functions Are Objects](05-functions-are-objects.md)  
 6. [Value vs Reference Types](06-value-vs-reference.md)  
-7. [إضافة وحذف الخصائص](07-adding-removing-properties.md)  
-8. [Enumerating Properties](08-enumerating-properties.md)  
+7. [prototype-and-prototype-chain](07-prototype-and-prototype-chain.md)  
+8. [Classess](08-classes.md)  
 
 ---
 
 ### 🧱 مفاهيم متقدمة
-9. [Prototype & Prototype Chain](09-prototype.md)  
-10. [This Keyword](10-this-keyword.md)  
-11. [bind / call / apply](11-bind-call-apply.md)  
-12. [Classes في ES6](12-classes.md)  
-13. [Static Methods & Properties](13-static.md)  
-14. [instanceof Keyword](14-instanceof.md)  
+9. [This Keyword](09-this-keyword.md)  
+10. [bind / call / apply](10-bind-call-apply.md)  
+11. [Static Methods](11-static-methods.md)  
+12. [instanceof Keyword](12-instanceof.md)  
 
 ---
 
 ###  أساسيات الـ OOP (الأعمدة الأربعة)
-15. [Encapsulation](15-encapsulation.md)  
-16. [Abstraction](16-abstraction.md)  
-17. [Inheritance](17-inheritance.md)  
-18. [Polymorphism](18-polymorphism.md)  
+13. [Encapsulation](15-encapsulation.md)  
+14. [Abstraction](16-abstraction.md)  
+15. [Inheritance](17-inheritance.md)  
+16. [Polymorphism](18-polymorphism.md)  
 
 ---
 
-### ✨ حاجات هتزود الفهم
-19. [Private Properties & Methods](19-private-properties.md)  
-20. [Getters and Setters](20-getters-setters.md)  
+### حاجات هتزود الفهم
+17. [Getters and Setters](17-getters-setters.md)  
+18. [Private Properties](19-private-properties.md)  
 
 ---
 
