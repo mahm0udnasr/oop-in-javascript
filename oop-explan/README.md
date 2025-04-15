@@ -12,7 +12,7 @@
 
 ---
 
-### 🧱 مفاهيم متقدمة
+### مفاهيم متقدمة
 9. [This Keyword](09-this-keyword.md)  
 10. [bind / call / apply](10-bind-call-apply.md)  
 11. [Static Methods](11-static-methods.md)  
