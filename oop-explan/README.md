@@ -20,17 +20,9 @@
 
 ---
 
-###  أساسيات الـ OOP (الأعمدة الأربعة)
-13. [Encapsulation](15-encapsulation.md)  
-14. [Abstraction](16-abstraction.md)  
-15. [Inheritance](17-inheritance.md)  
-16. [Polymorphism](18-polymorphism.md)  
-
----
-
 ### حاجات هتزود الفهم
-17. [Getters and Setters](17-getters-setters.md)  
-18. [Private Properties](19-private-properties.md)  
+13. [Getters and Setters](17-getters-setters.md)  
+14. [Private Properties](19-private-properties.md)  
 
 ---
 
